@@ -99,4 +99,4 @@ This project was conducted **strictly for educational purposes** within a contro
 ---
 
 ## Contact
-For any questions or collaboration inquiries, feel free to reach out to **Jair Ramirez** at [LinkedIn](https://www.linkedin.com/in/jairramirez) or via email at `jairr0813@gmail.com`.
+For any questions or collaboration inquiries, feel free to reach out to **Jair Ramirez** at [LinkedIn](https://www.linkedin.com/in/jair-ramirez-) or via email at `jairr0813@gmail.com`.
